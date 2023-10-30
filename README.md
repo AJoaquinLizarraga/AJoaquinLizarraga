@@ -15,6 +15,7 @@ Tech skills:<br/>
 ◾ JavaScript<br/>
 ◾ Node<br/>
 ◾ React<br/>
+◾ React Native<br/>
 ◾ Redux<br/>
 ◾ Express<br/>
 ◾ Sequelize<br/>
