@@ -1,4 +1,7 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQHzueOZGnj5HA/profile-displaybackgroundimage-shrink_350_1400/0/1692479905845?e=1698278400&v=beta&t=eDMjSWMWvwCedxeEUHWsyYB9YMPJP1quBbKwrLQUOPA">
+<div align="center" >
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NtczV3OHc5aGYxNGhncTFjbXd3eG1vbTU1YmR5dGRrdmd1bDZlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
+
 <h1 align="center">Hi < Developers /> 👋, I'm Emanuel</h1>
 <h3 align="center">Im full stack web developer from Córdoba, Argentina</h3>
 
@@ -56,12 +59,12 @@ While(me) { <br/>
 
 <h3 align="left">Languages and Tools:</h3><br/>
 <div align="center"> 
-## My Skill Set  
+<h1>My Skill Set</h1>
 
 
 
 
-### Frontend  
+<h2> Frontend </h2>  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -80,8 +83,7 @@ While(me) { <br/>
 </td><td valign="top" width="33%">
 
 
-
-### Backend  
+<h2>Backend</h2>
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
